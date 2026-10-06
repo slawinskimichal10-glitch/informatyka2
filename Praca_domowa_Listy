@@ -1,0 +1,38 @@
+# 1
+# numbers = []
+# 2
+# numbers = []
+# while len(numbers) != 5:
+#     a = input("Podaj liczbę: ")
+#     numbers.append(a)
+# print(numbers)
+# 3
+# numbers = [1, 2, 3, 4, 5]
+# x = (numbers)
+# print(f"x: {x}")
+# print(f"suma: {sum(numbers)}")
+# 4
+# numbers = [1, 2, 3, 4, 5]
+# print(f"największa liczba: {max(numbers)}")
+# 5
+# numbers = [1, 2, 3, 4, 5]
+# print(f"najmniejsza liczba: {min(numbers)}")
+# 6
+# numbers = [1, 2, 3, 4, 5]
+# print(f"średnia: {sum(numbers)/len(numbers)}")
+# 7
+# numbers = [1, 2, 3, 4, 5]
+# print(f"liczby parzyste: {[x for x in numbers if x % 2 == 0]}")
+# 8
+# numbers = [1, 2, 3, 4, 5, 1, 3]
+# duplicates = [x for x in numbers if numbers.count(x) > 1]
+# print(f"powtarzające się liczby: {duplicates}")
+# 9
+# numbers = [1, 2, 3, 4, 5, 1, 4, 5]
+# duplicates = [x for x in numbers if numbers.count(x) > 1]
+# print(f"niepowtarzające się liczby: {[x for x in numbers if numbers.count(x) == 1]}")
+# 10
+# numbers = [1, 2, 3, 4, 5]
+# squares = [x**2 for x in numbers]
+# print(numbers)
+# print(f"kwadraty liczb: {squares}")
