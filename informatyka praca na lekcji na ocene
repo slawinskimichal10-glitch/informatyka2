@@ -1,0 +1,20 @@
+# 1
+# from math import pi
+# x = pi
+# r = float(input("podaj promien: "))
+# print(f"r = {r}. Objetosc kuli = (4/3)*pi*r = {(4/3)*x*r}")
+# 2
+# x = int(input("ile razy: "))
+# i = 0
+# while i != x:
+#     i += 1
+#     print("Kocham programować")
+# 3
+suma = 0
+while True:
+    x = input()
+    if x == "stop":
+       
+       
+       break
+print(f"suma: {suma + x}")
